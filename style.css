@@ -61,15 +61,16 @@ h1, a{
     border-style: solid;
     border-color: lightgrey;
 }
-.user-circle{
+.user-circlenc{
     height: 50px;
     width: 50px;
     margin: 2.4px;
+    border-radius: 50px;
 }
 .circleborder{
     height: 55px;
     width: 55px;
-    background-color: pink;
+    background-color: teal;
     border-radius: 50px;
 }
 .wholecircle{
